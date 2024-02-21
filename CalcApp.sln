@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34601.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalcApp", "CalcApp.csproj", "{36A2E183-A52F-4F6B-921E-C2857B202D4F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{36A2E183-A52F-4F6B-921E-C2857B202D4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36A2E183-A52F-4F6B-921E-C2857B202D4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36A2E183-A52F-4F6B-921E-C2857B202D4F}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{36A2E183-A52F-4F6B-921E-C2857B202D4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36A2E183-A52F-4F6B-921E-C2857B202D4F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36A2E183-A52F-4F6B-921E-C2857B202D4F}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {59D3256E-6F71-48E7-AFFB-559DBE3001B1}
+	EndGlobalSection
+EndGlobal
